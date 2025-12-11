@@ -5,3 +5,8 @@ Uses a PIR motion sensor to detect body heat and movement
 Activates a buzzer/siren the moment motion is detected
 Low power consumption and easy to assemble
 Suitable for home, office, and small-area security applications
+##Tools/Technologies
+1)PIR sensor
+2)Buzzer
+3)LED
+4)Diode,Transistor
