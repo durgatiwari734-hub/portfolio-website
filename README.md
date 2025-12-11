@@ -1,12 +1,19 @@
 # portfolio-website
-A PIR sensor based security alarm system.
-This project showcases a simple, reliable, and fully hardware-based security alarm system that uses a PIR (Passive Infrared) sensor to detect human motion. The system activates a buzzer or siren the moment movement is detected — all without any Arduino, microcontroller, or programming.
-Uses a PIR motion sensor to detect body heat and movement
-Activates a buzzer/siren the moment motion is detected
-Low power consumption and easy to assemble
-Suitable for home, office, and small-area security applications
-##Tools/Technologies
-1)PIR sensor
-2)Buzzer
-3)LED
-4)Diode,Transistor
+This is a simple and responsive personal portfolio website built using HTML and CSS. It showcases my skills, projects, and contact information in a clean and organized layout. The site is easy to navigate and works well on different screen sizes.
+
+Key Features
+Sections for About Me, Skills, Projects, and Contact
+Clean and simple layout for easy readability
+Built using only HTML and CSS
+
+Technologies Used
+
+HTML
+CSS
+
+Skills Demonstrated
+Web page structure with HTML
+Styling and layout with CSS
+Responsive design basics
+Organizing content for a portfolio
+
